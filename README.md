@@ -42,6 +42,12 @@ I made this one to archive memes, and it was really good at that.
 
 A C++ implementation of Huffman compression with a custom `.HUF` format.
 
+### Open Source Contributions
+Will be extended in the future!
+
+#### [Grace Discord Bot](https://github.com/Code-Society-Lab/grace)
+[Increased test coverage](https://github.com/Code-Society-Lab/grace/pull/164): 27% -> 29%, and made some small fixes and features.
+
 ## Achievements
 
 * Winner, Excellence Hackathon 2026
