@@ -12,7 +12,7 @@ I like cats, language arts, and making good stuff!
 ## What I Am Working On Currently
 
 * Learning: Docker and Microservices
-* Building: Tests and Dockers for the Telegram Archiver, and the Maze Game
+* Building: Tests and Dockers for the [Telegram Archiver](https://github.com/Eyad-Jawad/Telegram-Archiver-Using-Telethon), and the [Maze Game](https://github.com/Eyad-Jawad/maze-game)
 * Looking for: A job 🥸
 
 ## Skills
@@ -28,17 +28,17 @@ Git, PyTest, SQLite, WebGL, Pygame, BeautifulSoup, GTest, Node.js/npm, Makefiles
 
 ## Featured Projects
 
-### Maze Game
+### [Maze Game](https://github.com/Eyad-Jawad/maze-game)
 
 A 3D maze game built with vanilla WebGL and JavaScript, featuring highly optimized C++ maze generation and solving. It generates and solves a ~260,000-cell maze in about 7 ms on my potato CPU.
 
 [Play It Here!](https://eyad-jawad.github.io/maze-game/game/website/)
-### Telegram Archiver
+### [Telegram Archiver](https://github.com/Eyad-Jawad/Telegram-Archiver-Using-Telethon)
 
 An asynchronous archiving tool built with Telethon to save large amounts of Telegram data locally.  
 I made this one to archive memes, and it was really good at that.
 
-### Huffman Compression Tool
+### [Huffman Compression Tool](https://github.com/Eyad-Jawad/HuffmanCompression)
 
 A C++ implementation of Huffman compression with a custom `.HUF` format.
 
