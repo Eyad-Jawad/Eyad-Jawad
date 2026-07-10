@@ -61,7 +61,7 @@ Will be extended in the future!
 * GitHub: [github.com/Eyad-Jawad](https://github.com/Eyad-Jawad)
 * Email: [eyadbjawad@gmail.com](mailto:eyadbjawad@gmail.com)
 * Telegram: [My Account](https://t.me/eyadjawad) (Currently not active)
-* LinkedIn: [My Profile](https://www.linkedin.com/in/eyad-jawad-a32b61305)
+* LinkedIn: [My Profile](https://www.linkedin.com/in/eyad-jawad)
 
 ---
 
