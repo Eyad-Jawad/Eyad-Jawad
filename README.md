@@ -11,8 +11,8 @@ I like cats, language arts, and making good stuff!
 
 ## What I Am Working On Currently
 
-* Learning: Docker and Microservices
-* Building: Tests and Dockers for the [Telegram Archiver](https://github.com/Eyad-Jawad/Telegram-Archiver-Using-Telethon), and the [Maze Game](https://github.com/Eyad-Jawad/maze-game)
+* Learning: SQLAlchemy and ORM
+* Building: Changing the naming convention in  [Telegram Archiver](https://github.com/Eyad-Jawad/Telegram-Archiver-Using-Telethon)
 * Looking for: A job 🥸
 
 ## Skills
@@ -24,7 +24,7 @@ C, C++, Python, JavaScript, HTML, CSS, SQL
 Data Structures, Algorithms, Bit Manipulation, Image Processing, Asynchronous Programming, 3D Rendering, Backtracking, Software Testing, Documentation
 
 **Tools & Frameworks**
-Git, PyTest, SQLite, WebGL, Pygame, BeautifulSoup, GTest, Node.js/npm, Makefiles, Telethon
+Git, PyTest, SQLite, SQLAlchemy, Docker, WebGL, Pygame, BeautifulSoup, GTest, Node.js/npm, Makefiles, Telethon
 
 ## Featured Projects
 
@@ -60,7 +60,7 @@ Will be extended in the future!
 * Website: [eyad-jawad.github.io](https://eyad-jawad.github.io/)
 * GitHub: [github.com/Eyad-Jawad](https://github.com/Eyad-Jawad)
 * Email: [eyadbjawad@gmail.com](mailto:eyadbjawad@gmail.com)
-* Telegram: [My Account](https://t.me/eyadjawad) (Currently not active)
+* Telegram: [My Account](https://t.me/eyadjawad)
 * LinkedIn: [My Profile](https://www.linkedin.com/in/eyad-jawad)
 
 ---
