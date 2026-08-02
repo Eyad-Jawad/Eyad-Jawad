@@ -11,8 +11,8 @@ I like cats, language arts, and making good stuff!
 
 ## What I Am Working On Currently
 
-* Learning: SQLAlchemy and ORM
-* Building: Changing the naming convention in  [Telegram Archiver](https://github.com/Eyad-Jawad/Telegram-Archiver-Using-Telethon)
+* Learning: JS bundlers
+* Building: A better deployment for my [Maze Game](https://github.com/Eyad-Jawad/maze-game)
 * Looking for: A job 🥸
 
 ## Skills
@@ -24,7 +24,7 @@ C, C++, Python, JavaScript, HTML, CSS, SQL
 Data Structures, Algorithms, Bit Manipulation, Image Processing, Asynchronous Programming, 3D Rendering, Backtracking, Software Testing, Documentation
 
 **Tools & Frameworks**
-Git, PyTest, SQLite, SQLAlchemy, Docker, WebGL, Pygame, BeautifulSoup, GTest, Node.js/npm, Makefiles, Telethon
+Git, PyTest, yaml (github actions), SQLite, SQLAlchemy, Docker, WebGL, Pygame, BeautifulSoup, GTest, Node.js/npm, Makefiles, Telethon
 
 ## Featured Projects
 
