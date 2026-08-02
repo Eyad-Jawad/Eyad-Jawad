@@ -18,13 +18,13 @@ I like cats, language arts, and making good stuff!
 ## Skills
 
 **Languages**
-C, C++, Python, JavaScript, HTML, CSS, SQL, yaml (github actions)
+C, C++, Python, JavaScript, HTML, CSS, SQL, Yaml
 
 **Core Concepts**
 Data Structures, Algorithms, Bit Manipulation, Image Processing, Asynchronous Programming, 3D Rendering, Backtracking, Software Testing, Documentation
 
 **Tools & Frameworks**
-Git, PyTest, SQLite, SQLAlchemy, Docker, WebGL, Pygame, BeautifulSoup, GTest, Node.js/npm, Makefiles, Telethon
+Git, PyTest, SQLite, SQLAlchemy, Docker, GitHub Actions, WebGL, Pygame, BeautifulSoup, GTest, Node.js/npm, Makefiles, Telethon
 
 ## Featured Projects
 
